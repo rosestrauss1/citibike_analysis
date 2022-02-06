@@ -1,6 +1,6 @@
 # City Bike Analysis
 
-## Overview of the statistical analysis:
+## Overview
 This analysis was created to convince investors that a bike-sharing program in Des Moines will be a worthwhile investment. To convince them, I created a  bike trip analysis and created visualizations that would show the length of time that bikes are checked out for all riders and genders,  the number of bike trips by genders for each hour of each day of the week,  the number of bike trips for each type of user and gender for each day of the week. This analysis also includes the most popular start and end locations.
 
 ## Results:
