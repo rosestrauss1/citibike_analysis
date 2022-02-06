@@ -1,4 +1,4 @@
-# city_bike_analysis
+# City Bike Analysis
 
 ## Overview of the statistical analysis:
 
