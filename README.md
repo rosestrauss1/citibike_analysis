@@ -35,7 +35,6 @@ This next visualization shows the concentration of bikers from different start t
 This visualization shows the concentration of bikers from different end trip locations. The end trips seem to be slightly more dispersed then the starting locations, so it could be useful to ensure there are bike share stations in less centralized areas to ensure customers have a place to drop off their bikes.
 
 ## Summary
-For additional analysis, one other data visualization that could be included would be finding the trip duration by trip origin. Another visualization that could be included would be an analysis of what the start location and end location is based on gender.
+Overall, this analysis shows that there is a difference between bike users who are male and female, and that there is a pronounced difference in usage between those who are regular customers and subscribers. To implement a new CitiBike program, there should be options for start and stop locations based on the different types of users. For additional analysis, one other data visualization that could be included would be finding the the start and stop locations for subscribers and customers, to be able to distinguish where the different bike stations should be placed to best meet the needs of users. Another visualization that could be included would be an analysis of what the start location and end location is based on gender.
 
 LINK TO TABLEU PUBLIC: https://public.tableau.com/shared/JJKRT8ZHR?:display_count=n&:origin=viz_share_link
-
