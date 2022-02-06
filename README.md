@@ -7,6 +7,8 @@ This analysis was created to convince investors that a bike-sharing program in D
 
 <img width="964" alt="Screen Shot 2022-02-06 at 11 45 30 AM" src="https://user-images.githubusercontent.com/92963227/152696428-b893da0b-bd44-4ea6-b396-bdf3d0525048.png">
 
+This image descibes
+
 <img width="962" alt="Screen Shot 2022-02-06 at 11 46 07 AM" src="https://user-images.githubusercontent.com/92963227/152696441-a40ae95f-089e-4840-a370-274c06002054.png">
 
 <img width="1002" alt="Screen Shot 2022-02-06 at 11 46 27 AM" src="https://user-images.githubusercontent.com/92963227/152696448-5da8ec14-2fd1-40e8-b358-3fe16ff35fd8.png">
